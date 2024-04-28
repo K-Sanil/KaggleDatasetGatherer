@@ -1,0 +1,41 @@
+{
+  "id": "kishan305/la-liga-results-19952020",
+  "id_no": 617345,
+  "datasetSlugNullable": "la-liga-results-19952020",
+  "ownerUserNullable": "kishan305",
+  "usabilityRatingNullable": 0.8235294117647058,
+  "titleNullable": "La Liga Complete Dataset",
+  "subtitleNullable": "La Liga Match Results with half time and full time scores.",
+  "descriptionNullable": "## Last Updated: 4th October 2023 (La Liga Matchday 8)\nThis dataset encompasses match outcomes for every La Liga game from the 1995-1996 season to the 2023-2024 season, up to Matchday 8, and it also includes half-time scores. \n\nThe creation of this dataset was motivated by the need for more straightforward, league-specific data. Rather than sifting through extensive datasets containing results from various European matches, having smaller, league-specific datasets streamlines the process of analysis.\n\nThe dataset comprises columns such as Season, HomeTeam, AwayTeam, FTHG (Full-time home goals), FTAG (Full-time away goals), FTR (Full-time result), HTHG (Half-time home goals), HTAG (Half-time away goals), and HTR (Half-time result).\n\nThese results have been sourced from the [site](https://www.football-data.co.uk/spainm.php), a UK-based football betting platform. While they provide datasets for each separate season, I have consolidated them into a single dataset to enhance convenience and usability.\n\n----------------------",
+  "datasetId": 617345,
+  "datasetSlug": "la-liga-results-19952020",
+  "hasDatasetSlug": true,
+  "ownerUser": "kishan305",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.8235294117647058,
+  "hasUsabilityRating": true,
+  "totalViews": 22052,
+  "totalVotes": 35,
+  "totalDownloads": 2617,
+  "title": "La Liga Complete Dataset",
+  "hasTitle": true,
+  "subtitle": "La Liga Match Results with half time and full time scores.",
+  "hasSubtitle": true,
+  "description": "## Last Updated: 4th October 2023 (La Liga Matchday 8)\nThis dataset encompasses match outcomes for every La Liga game from the 1995-1996 season to the 2023-2024 season, up to Matchday 8, and it also includes half-time scores. \n\nThe creation of this dataset was motivated by the need for more straightforward, league-specific data. Rather than sifting through extensive datasets containing results from various European matches, having smaller, league-specific datasets streamlines the process of analysis.\n\nThe dataset comprises columns such as Season, HomeTeam, AwayTeam, FTHG (Full-time home goals), FTAG (Full-time away goals), FTR (Full-time result), HTHG (Half-time home goals), HTAG (Half-time away goals), and HTR (Half-time result).\n\nThese results have been sourced from the [site](https://www.football-data.co.uk/spainm.php), a UK-based football betting platform. While they provide datasets for each separate season, I have consolidated them into a single dataset to enhance convenience and usability.\n\n----------------------",
+  "hasDescription": true,
+  "isPrivate": false,
+  "keywords": [
+    "football",
+    "europe",
+    "sports"
+  ],
+  "licenses": [
+    {
+      "nameNullable": "copyright-authors",
+      "name": "copyright-authors",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}
